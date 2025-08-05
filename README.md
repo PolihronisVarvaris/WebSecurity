@@ -10,6 +10,9 @@
   Email: kostas.georgiadisg@gmail.com
 ---
 
+## Full research link:
+https://docs.google.com/document/d/123FWVmYmiMp0chmDWQAT9QL3YinBn5hyrGoNf1TZAgg/edit?usp=sharing
+
 ## 📝 Abstract
 
 Website security is a critical factor in safeguarding information and users in the digital space. This academic article explores information systems security, focusing on website protection. Key challenges such as malware, DDoS attacks, and external breaches are discussed, along with approaches and techniques like cryptography, access control systems, and threat detection and response.
